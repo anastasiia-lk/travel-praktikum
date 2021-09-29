@@ -1,0 +1,12 @@
+.button-edit {
+  width: 24px;
+  height: 24px;
+  border: 1px solid #fff;
+  background-color: transparent;
+  cursor: pointer;
+  margin: 0 0 0 18px;
+  background-image: url(../../images/vector-edit-button.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 0;
+}
