@@ -1,4 +1,4 @@
-# Проект: Путешествие по России
+<!-- # Проект: Путешествие по России
 
 ### Описание проекта и его функциональность
 
@@ -18,4 +18,4 @@
 
 ### GitHub
 
-[Ссылка на GitHub](https://anastasiia-lk.github.io/russian-travel/)
+[Ссылка на GitHub](https://anastasiia-lk.github.io/russian-travel/) -->
