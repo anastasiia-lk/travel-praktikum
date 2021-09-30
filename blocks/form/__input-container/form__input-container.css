@@ -1,8 +1,6 @@
 .form__input-container {
   max-width: 358px;
   margin: 0 auto;
-  padding-top: 54px;
-  padding-bottom: 48px;
+  padding: 54px 0 48px;
   border: 0;
-  background-color: yellow;
 }
