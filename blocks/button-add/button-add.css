@@ -5,9 +5,13 @@
   border-radius: 2px;
   background-color: transparent;
   cursor: pointer;
-  background-image: url(../../images/vector-add-button.png);
+  background-image: url(../../images/add-button.png);
   background-repeat: no-repeat;
   background-size: 22px 22px;
   background-position: center;
   padding: 0;
+}
+
+.button-add:hover {
+  opacity: 0.6;
 }
