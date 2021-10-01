@@ -3,9 +3,19 @@
   height: 32px;
   border: none;
   background-image: url(../../images/close.png);
+  background-size: cover;
   background-color: #000;
   position: absolute;
   right: -40px;
   top: -40px;
   padding: 0;
+}
+
+@media screen and (max-width: 320px) {
+  .button-close {
+    width: 20px;
+    height: 20px;
+    top: -36px;
+    right: 19px;
+  }
 }
