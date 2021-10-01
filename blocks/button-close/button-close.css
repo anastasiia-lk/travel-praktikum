@@ -11,11 +11,17 @@
   padding: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 528px) {
   .button-close {
     width: 20px;
     height: 20px;
     top: -36px;
+    right: 46px;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .button-close {
     right: 19px;
   }
 }

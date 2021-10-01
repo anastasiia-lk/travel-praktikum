@@ -5,12 +5,12 @@
   background-color: #fff;
   display: flex;
   flex-flow: column;
-  align-items: center;
   justify-content: center;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 528px) {
   .form {
     max-width: 282px;
+    align-items: center;
   }
 }
