@@ -6,3 +6,15 @@
   row-gap: 20px;
   column-gap: 17px;
 }
+
+@media screen and (max-width: 893px) {
+  .elements {
+    max-width: 88%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .elements {
+    max-width: 282px;
+  }
+}
