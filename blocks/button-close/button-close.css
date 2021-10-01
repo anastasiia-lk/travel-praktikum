@@ -5,7 +5,7 @@
   background-image: url(../../images/close.png);
   background-color: #000;
   position: absolute;
-  top: 155px;
-  left: 863px;
+  right: -40px;
+  top: -40px;
   padding: 0;
 }
